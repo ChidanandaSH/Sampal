@@ -1,0 +1,1 @@
+print "hi chinnu it is class of micro degree"
